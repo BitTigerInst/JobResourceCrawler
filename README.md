@@ -33,5 +33,5 @@ Owner
 
 TeamMember
 --
-Zhuosi\n
+Zhuosi
 Gege
